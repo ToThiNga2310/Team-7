@@ -158,12 +158,11 @@
 .copyright{
   text-align: center;
   position: relative;
-  top: 65rem;
 }
 
 .profile-card {
   position: relative;
-  top: 18vh;
+  top: 110px;
   margin-left: 50%;
   width: 600px;
   height: 250px;
