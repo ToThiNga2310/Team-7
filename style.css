@@ -89,17 +89,6 @@
   animation-fill-mode: forwards
 }
 
-.members__header {
-   font-size: 36px;
-   text-align: center;
-   color:  #bbbbbb;
-   font-family: 'Josefin Sans', sans-serif;
-   letter-spacing: 10px;
-}
-.members__header {
-  line-height: 7rem;
-}
-
 .details {
   width: 30%;
   background: #000000;
@@ -265,10 +254,7 @@
 }
 
 @keyframes init {
-  0% {
-    width: 0px;
-    height: 0px;
-  }
+
   100% {
     width: 36px;
     height: 36px;
